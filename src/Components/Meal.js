@@ -24,7 +24,7 @@ const Meal = () => {
  <> 
     <div className='main bg-warning text-center'>
       <div className='heading'>
-        <h1> Recipe Book </h1>
+        <h1> Recipe Book App</h1>
         
       </div>
       <div className='searchBox '>
